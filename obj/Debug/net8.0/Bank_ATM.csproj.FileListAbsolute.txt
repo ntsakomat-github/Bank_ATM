@@ -1,0 +1,28 @@
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\bin\Debug\net8.0\Bank_ATM.exe
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\bin\Debug\net8.0\Bank_ATM.deps.json
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\bin\Debug\net8.0\Bank_ATM.runtimeconfig.json
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\bin\Debug\net8.0\Bank_ATM.dll
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\bin\Debug\net8.0\Bank_ATM.pdb
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.AssemblyInfoInputs.cache
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.AssemblyInfo.cs
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.csproj.CoreCompileInputs.cache
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.dll
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\refint\Bank_ATM.dll
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.pdb
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\Bank_ATM.genruntimeconfig.cache
+D:\Source\Visual Studio\Projects\C#\Bank_ATM\obj\Debug\net8.0\ref\Bank_ATM.dll
+D:\Source\SRC\Bank_ATM\bin\Debug\net8.0\Bank_ATM.exe
+D:\Source\SRC\Bank_ATM\bin\Debug\net8.0\Bank_ATM.deps.json
+D:\Source\SRC\Bank_ATM\bin\Debug\net8.0\Bank_ATM.runtimeconfig.json
+D:\Source\SRC\Bank_ATM\bin\Debug\net8.0\Bank_ATM.dll
+D:\Source\SRC\Bank_ATM\bin\Debug\net8.0\Bank_ATM.pdb
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.AssemblyInfoInputs.cache
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.AssemblyInfo.cs
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.csproj.CoreCompileInputs.cache
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.dll
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\refint\Bank_ATM.dll
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.pdb
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\Bank_ATM.genruntimeconfig.cache
+D:\Source\SRC\Bank_ATM\obj\Debug\net8.0\ref\Bank_ATM.dll
